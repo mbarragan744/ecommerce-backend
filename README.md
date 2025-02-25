@@ -4,4 +4,4 @@
 
 ¿Por que creen que deberian pasar la materia de Backend?
 
-
+No se, supongo que porque me interesa la clase y porque me gusta aprender.
