@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 
 class ProductController extends Controller
 {
-    public function __index(){//este metodo es para listar los productos
+    public function index(){//este metodo es para listar los productos
         return view('products.index');
     }
     public function create(){//formulario para crear un producto
