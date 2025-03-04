@@ -8,7 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .navbar {
-            background-color: #ff8533; /* Naranja UNAB */
+            background-color: #fc9928; /* Naranja UNAB */
         }
         .navbar a {
             color: white !important;
@@ -33,7 +33,7 @@
             border-color: #5c43a0;
         }
         footer {
-            background-color: #FF6600; /* Naranja UNAB */
+            background-color: #fc9928; /* Naranja UNAB */
             color: white;
         }
         footer a {
