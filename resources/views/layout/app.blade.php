@@ -14,10 +14,10 @@
             color: white !important;
         }
         .navbar a:hover {
-            color: #6A4C9C; /* Morado UNAB */
+            color: #6A4C9C; 
         }
         .btn-primary {
-            background-color: #6A4C9C; /* Morado UNAB */
+            background-color: #6A4C9C; 
             border-color: #6A4C9C;
         }
         .btn-primary:hover {
