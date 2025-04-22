@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #fc9928; /* Naranja UNAB */
+}
+.navbar a {
+    color: white !important;
+}
+.navbar a:hover {
+    color: #6A4C9C; 
+}
+.btn-primary {
+    background-color: #6A4C9C; 
+    border-color: #6A4C9C;
+}
+.btn-primary:hover {
+    background-color: #5c43a0;
+    border-color: #5c43a0;
+}
+footer {
+    background-color: #fc9928;
+    color: white;
+}
+footer a {
+    color: white;
+}
